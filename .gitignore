@@ -1,0 +1,18 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
